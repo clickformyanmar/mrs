@@ -50,6 +50,7 @@ header {
  @media screen and (min-width: 320px) {
      .box1 {
          height: 40vh;
+         font-size: 20px;
      }
  }
 

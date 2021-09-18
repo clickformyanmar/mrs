@@ -46,3 +46,15 @@ header {
  .span-2 {
      color: rgb(32, 32, 32);
  }
+
+ @media screen and (min-width: 320px) {
+     .box1 {
+         height: 40vh;
+     }
+ }
+
+ @media screen and (min-width: 768px) {
+    .box1 {
+        height: 60vh;
+    }
+}

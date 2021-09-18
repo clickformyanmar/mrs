@@ -1,0 +1,48 @@
+header {
+    height: 15vh;
+    width: 98%;
+    background-color: rgb(255, 103, 103);
+    margin: 10px 10px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px rgb(155, 155, 155);
+}
+.bar {
+    text-align: center;
+    line-height: 15vh;
+    text-transform: uppercase;
+    font-family: roboto;
+    color: rgb(255, 255, 255);
+    font-family: roboto;
+    font-size:calc(5px + 2vw);
+}
+
+.box1 {
+    height: 60vh;
+    width: 98%;
+    background-image: linear-gradient(to right bottom,
+    rgba(245, 245, 245, 0.8),
+    rgba(245, 245, 245, 0.8)),
+    url(img/img-1.jpeg);
+    background-size: cover;
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    box-shadow: 1px 1px 5px rgb(155, 155, 155);
+}
+.eng {
+    font-family: roboto;
+    font-size:calc(10px + 3vw);
+    color: rgb(73, 73, 73);
+}
+.my {
+    font-family: pyidaungsu;
+    font-size:calc(10px + 3vw);
+    color: rgb(94, 94, 94);
+}
+ .span-1 {
+     color: rgb(39, 39, 39);
+ }
+ .span-2 {
+     color: rgb(32, 32, 32);
+ }
